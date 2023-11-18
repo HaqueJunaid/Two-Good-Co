@@ -1,10 +1,8 @@
-@import url('https://fonts.cdnfonts.com/css/futura-pt');
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Futura PT', sans-serif;
+    font-family: Futura; 
 }
 
 #cursor {
@@ -87,7 +85,7 @@ nav #part2 span {
 }
 #page1 #video-container {
     margin-top: 1vw;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     position: relative;
 }
